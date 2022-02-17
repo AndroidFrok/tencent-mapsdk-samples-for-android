@@ -205,7 +205,7 @@
 
         <meta-data
             android:name="TencentMapSDK"
-            android:value="您的key" />
+            android:value="F2BBZ-6RLW3-YK43O-YM67L-SZD5O-EEFKQ" />
         <!-- 轨迹SDK所需类-->
         <!-- 轨迹 sdk 内部的 Service 包含定位的封装和轨迹数据的上传功能 -->
         <service
